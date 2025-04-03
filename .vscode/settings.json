@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": false,
+  "eslint.validate": ["javascript", "postcss", "css"],
+  "files.associations": { "*.css": "postcss" },
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": "explicit" }
+}
